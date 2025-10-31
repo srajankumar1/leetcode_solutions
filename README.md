@@ -17,6 +17,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/srajankumar1/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -35,4 +37,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/srajankumar1/leetcode_solutions/tree/master/0035-search-insert-position) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
