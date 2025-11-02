@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/srajankumar1/leetcode_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/srajankumar1/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/srajankumar1/leetcode_solutions/tree/master/1048-clumsy-factorial) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/1013-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
