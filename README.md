@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/srajankumar1/leetcode_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/srajankumar1/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
+| [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
+| [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1048-clumsy-factorial](https://github.com/srajankumar1/leetcode_solutions/tree/master/1048-clumsy-factorial) |
 ## Stack
 |  |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
