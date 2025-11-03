@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/srajankumar1/leetcode_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/srajankumar1/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
 | [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/srajankumar1/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
@@ -89,5 +91,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
