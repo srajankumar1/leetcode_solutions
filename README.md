@@ -13,6 +13,7 @@
 | [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/srajankumar1/leetcode_solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/srajankumar1/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
