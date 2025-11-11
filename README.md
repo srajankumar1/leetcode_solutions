@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/srajankumar1/leetcode_solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/srajankumar1/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/srajankumar1/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0053-maximum-subarray) |
@@ -52,6 +53,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/srajankumar1/leetcode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/srajankumar1/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/srajankumar1/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0283-move-zeroes) |
