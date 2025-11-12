@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/srajankumar1/leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/srajankumar1/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srajankumar1/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/srajankumar1/leetcode_solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 ## Greedy
