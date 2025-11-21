@@ -43,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/srajankumar1/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/srajankumar1/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
@@ -104,6 +105,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/srajankumar1/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -145,6 +147,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/srajankumar1/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0147-insertion-sort-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0147-insertion-sort-list) |
 ## Divide and Conquer
