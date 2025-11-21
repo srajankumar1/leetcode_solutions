@@ -57,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/srajankumar1/leetcode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -144,6 +145,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0147-insertion-sort-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0147-insertion-sort-list) |
 ## Divide and Conquer
 |  |
