@@ -65,6 +65,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/srajankumar1/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/srajankumar1/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srajankumar1/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0143-reorder-list) |
 | [1048-clumsy-factorial](https://github.com/srajankumar1/leetcode_solutions/tree/master/1048-clumsy-factorial) |
 ## Dynamic Programming
 |  |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/srajankumar1/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0143-reorder-list) |
 | [1013-fibonacci-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -151,6 +154,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/srajankumar1/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srajankumar1/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
