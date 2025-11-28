@@ -129,6 +129,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/srajankumar1/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/srajankumar1/leetcode_solutions/tree/master/0338-counting-bits) |
 ## Sorting
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/srajankumar1/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
