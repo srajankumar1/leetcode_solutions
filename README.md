@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/srajankumar1/leetcode_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/srajankumar1/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/srajankumar1/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/srajankumar1/leetcode_solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0054-spiral-matrix) |
@@ -227,6 +228,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/srajankumar1/leetcode_solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/srajankumar1/leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
