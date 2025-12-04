@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/srajankumar1/leetcode_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/srajankumar1/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/srajankumar1/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/srajankumar1/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/srajankumar1/leetcode_solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/srajankumar1/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/srajankumar1/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srajankumar1/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -153,6 +155,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/srajankumar1/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
@@ -232,6 +235,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/srajankumar1/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/srajankumar1/leetcode_solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/srajankumar1/leetcode_solutions/tree/master/0078-subsets) |
