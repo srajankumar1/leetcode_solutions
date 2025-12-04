@@ -19,6 +19,7 @@
 | [0073-set-matrix-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/srajankumar1/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/srajankumar1/leetcode_solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srajankumar1/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0136-single-number) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -159,6 +161,7 @@
 | [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/srajankumar1/leetcode_solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 ## Greedy
@@ -239,5 +242,10 @@
 | [0039-combination-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/srajankumar1/leetcode_solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/srajankumar1/leetcode_solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
