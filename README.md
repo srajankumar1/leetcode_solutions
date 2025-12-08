@@ -111,6 +111,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/srajankumar1/leetcode_solutions/tree/master/0155-min-stack) |
 | [1048-clumsy-factorial](https://github.com/srajankumar1/leetcode_solutions/tree/master/1048-clumsy-factorial) |
 ## Dynamic Programming
 |  |
@@ -232,6 +233,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/srajankumar1/leetcode_solutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/srajankumar1/leetcode_solutions/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
