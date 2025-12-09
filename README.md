@@ -30,6 +30,7 @@
 | [0283-move-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/srajankumar1/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
@@ -49,6 +50,7 @@
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/srajankumar1/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -112,6 +114,7 @@
 | [0020-valid-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/srajankumar1/leetcode_solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [1048-clumsy-factorial](https://github.com/srajankumar1/leetcode_solutions/tree/master/1048-clumsy-factorial) |
 ## Dynamic Programming
 |  |
@@ -252,4 +255,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0079-word-search) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
