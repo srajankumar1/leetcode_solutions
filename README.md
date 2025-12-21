@@ -17,6 +17,7 @@
 | [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/srajankumar1/leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/srajankumar1/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/srajankumar1/leetcode_solutions/tree/master/0075-sort-colors) |
@@ -136,6 +137,7 @@
 | [0022-generate-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/srajankumar1/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/srajankumar1/leetcode_solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srajankumar1/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/srajankumar1/leetcode_solutions/tree/master/0338-counting-bits) |
@@ -189,6 +191,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/srajankumar1/leetcode_solutions/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/srajankumar1/leetcode_solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 ## Linked List
