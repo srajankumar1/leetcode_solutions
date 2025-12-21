@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/srajankumar1/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/srajankumar1/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/srajankumar1/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/srajankumar1/leetcode_solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0053-maximum-subarray) |
@@ -81,6 +82,7 @@
 | [0027-remove-element](https://github.com/srajankumar1/leetcode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/srajankumar1/leetcode_solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/srajankumar1/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/srajankumar1/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srajankumar1/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/srajankumar1/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/srajankumar1/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/srajankumar1/leetcode_solutions/tree/master/0155-min-stack) |
@@ -131,6 +134,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/srajankumar1/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srajankumar1/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -272,6 +276,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/srajankumar1/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/srajankumar1/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
