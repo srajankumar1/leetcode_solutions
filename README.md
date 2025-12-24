@@ -40,6 +40,7 @@
 | [0792-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0948-sort-an-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/srajankumar1/leetcode_solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/srajankumar1/leetcode_solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -118,6 +119,7 @@
 | [0069-sqrtx](https://github.com/srajankumar1/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0792-binary-search) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/srajankumar1/leetcode_solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
@@ -148,6 +150,7 @@
 | [0152-maximum-product-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/srajankumar1/leetcode_solutions/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/1013-fibonacci-number) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/srajankumar1/leetcode_solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Recursion
 |  |
 | ------- |
@@ -183,6 +186,7 @@
 | [0324-wiggle-sort-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0948-sort-an-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/srajankumar1/leetcode_solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/srajankumar1/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
