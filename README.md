@@ -63,6 +63,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/srajankumar1/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/srajankumar1/leetcode_solutions/tree/master/0763-partition-labels) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0202-happy-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/srajankumar1/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/srajankumar1/leetcode_solutions/tree/master/0763-partition-labels) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/srajankumar1/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
@@ -111,6 +113,7 @@
 | [0171-excel-sheet-column-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0763-partition-labels](https://github.com/srajankumar1/leetcode_solutions/tree/master/0763-partition-labels) |
 ## String Matching
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 | [0134-gas-station](https://github.com/srajankumar1/leetcode_solutions/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/srajankumar1/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/srajankumar1/leetcode_solutions/tree/master/0763-partition-labels) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/srajankumar1/leetcode_solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1710-maximum-units-on-a-truck](https://github.com/srajankumar1/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/srajankumar1/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
