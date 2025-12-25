@@ -304,6 +304,7 @@
 | ------- |
 | [0079-word-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/srajankumar1/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -314,8 +315,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/srajankumar1/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/srajankumar1/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
