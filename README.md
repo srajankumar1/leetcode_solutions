@@ -120,6 +120,7 @@
 | [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/srajankumar1/leetcode_solutions/tree/master/0763-partition-labels) |
+| [1143-longest-common-subsequence](https://github.com/srajankumar1/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [0338-counting-bits](https://github.com/srajankumar1/leetcode_solutions/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/srajankumar1/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/srajankumar1/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/srajankumar1/leetcode_solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Recursion
 |  |
