@@ -27,6 +27,7 @@
 | [0090-subsets-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srajankumar1/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/srajankumar1/leetcode_solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/srajankumar1/leetcode_solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -232,6 +233,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/srajankumar1/leetcode_solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/srajankumar1/leetcode_solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/srajankumar1/leetcode_solutions/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/srajankumar1/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srajankumar1/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
