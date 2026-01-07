@@ -341,6 +341,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/srajankumar1/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/srajankumar1/leetcode_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -348,12 +349,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/srajankumar1/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/srajankumar1/leetcode_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/srajankumar1/leetcode_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/srajankumar1/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0226-invert-binary-tree) |
