@@ -44,6 +44,7 @@
 | [0455-assign-cookies](https://github.com/srajankumar1/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/srajankumar1/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0792-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
@@ -73,6 +74,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/srajankumar1/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/srajankumar1/leetcode_solutions/tree/master/0763-partition-labels) |
 ## Math
@@ -128,6 +130,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0648-replace-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/srajankumar1/leetcode_solutions/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/srajankumar1/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
@@ -391,5 +394,6 @@
 ## Trie
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
