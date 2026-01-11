@@ -87,6 +87,7 @@
 | [0007-reverse-integer](https://github.com/srajankumar1/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/srajankumar1/leetcode_solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/srajankumar1/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0202-happy-number) |
@@ -127,6 +128,7 @@
 | [0022-generate-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/srajankumar1/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/srajankumar1/leetcode_solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/srajankumar1/leetcode_solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/srajankumar1/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0079-word-search) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/srajankumar1/leetcode_solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1048-clumsy-factorial](https://github.com/srajankumar1/leetcode_solutions/tree/master/1048-clumsy-factorial) |
@@ -206,6 +209,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/srajankumar1/leetcode_solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/srajankumar1/leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0136-single-number) |
