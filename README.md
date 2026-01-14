@@ -89,6 +89,7 @@
 | [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/srajankumar1/leetcode_solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/srajankumar1/leetcode_solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/srajankumar1/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
@@ -183,6 +184,7 @@
 | [0042-trapping-rain-water](https://github.com/srajankumar1/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/srajankumar1/leetcode_solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/srajankumar1/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/srajankumar1/leetcode_solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/srajankumar1/leetcode_solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srajankumar1/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -201,6 +203,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/srajankumar1/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
