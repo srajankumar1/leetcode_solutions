@@ -272,6 +272,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/srajankumar1/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/srajankumar1/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0147-insertion-sort-list) |
