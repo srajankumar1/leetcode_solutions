@@ -380,6 +380,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/srajankumar1/leetcode_solutions/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/srajankumar1/leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Monotonic Stack
@@ -419,6 +420,7 @@
 | [0127-word-ladder](https://github.com/srajankumar1/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/srajankumar1/leetcode_solutions/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/srajankumar1/leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/srajankumar1/leetcode_solutions/tree/master/0994-rotting-oranges) |
 ## Binary Indexed Tree
@@ -435,4 +437,12 @@
 | [0014-longest-common-prefix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0648-replace-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+## Graph Theory
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/srajankumar1/leetcode_solutions/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/srajankumar1/leetcode_solutions/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
