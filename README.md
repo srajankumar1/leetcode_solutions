@@ -383,6 +383,7 @@
 | [0310-minimum-height-trees](https://github.com/srajankumar1/leetcode_solutions/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/srajankumar1/leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -422,6 +423,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/srajankumar1/leetcode_solutions/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/srajankumar1/leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0994-rotting-oranges](https://github.com/srajankumar1/leetcode_solutions/tree/master/0994-rotting-oranges) |
 ## Binary Indexed Tree
 |  |
@@ -441,8 +443,13 @@
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/srajankumar1/leetcode_solutions/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/srajankumar1/leetcode_solutions/tree/master/0310-minimum-height-trees) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
