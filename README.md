@@ -92,6 +92,7 @@
 | [0009-palindrome-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/srajankumar1/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/srajankumar1/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/srajankumar1/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/srajankumar1/leetcode_solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/srajankumar1/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/srajankumar1/leetcode_solutions/tree/master/0070-climbing-stairs) |
@@ -192,6 +193,7 @@
 | [0042-trapping-rain-water](https://github.com/srajankumar1/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/srajankumar1/leetcode_solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/srajankumar1/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/srajankumar1/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/srajankumar1/leetcode_solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/srajankumar1/leetcode_solutions/tree/master/0091-decode-ways) |
@@ -452,4 +454,8 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/srajankumar1/leetcode_solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
