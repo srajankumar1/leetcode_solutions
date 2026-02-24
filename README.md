@@ -52,6 +52,7 @@
 | [0648-replace-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0792-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0792-binary-search) |
+| [0881-boats-to-save-people](https://github.com/srajankumar1/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/srajankumar1/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0948-sort-an-array) |
@@ -123,6 +124,7 @@
 | [0283-move-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/srajankumar1/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/srajankumar1/leetcode_solutions/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/srajankumar1/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/srajankumar1/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/srajankumar1/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
@@ -251,6 +253,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srajankumar1/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/srajankumar1/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/srajankumar1/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/srajankumar1/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0948-sort-an-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/srajankumar1/leetcode_solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -282,6 +285,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srajankumar1/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/srajankumar1/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/srajankumar1/leetcode_solutions/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/srajankumar1/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/srajankumar1/leetcode_solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1710-maximum-units-on-a-truck](https://github.com/srajankumar1/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/srajankumar1/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
