@@ -57,6 +57,7 @@
 | [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/srajankumar1/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/srajankumar1/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/srajankumar1/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/srajankumar1/leetcode_solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/srajankumar1/leetcode_solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
@@ -104,6 +105,7 @@
 | [0202-happy-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
+| [0973-k-closest-points-to-origin](https://github.com/srajankumar1/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/srajankumar1/leetcode_solutions/tree/master/1048-clumsy-factorial) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -260,6 +262,7 @@
 | [0881-boats-to-save-people](https://github.com/srajankumar1/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/srajankumar1/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/srajankumar1/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/srajankumar1/leetcode_solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/srajankumar1/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -317,6 +320,7 @@
 | [0324-wiggle-sort-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/srajankumar1/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -325,6 +329,7 @@
 | [0621-task-scheduler](https://github.com/srajankumar1/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/srajankumar1/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/srajankumar1/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quickselect
 |  |
@@ -332,6 +337,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/srajankumar1/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -480,4 +486,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/srajankumar1/leetcode_solutions/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/srajankumar1/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
