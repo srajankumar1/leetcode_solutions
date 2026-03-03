@@ -332,6 +332,7 @@
 | [0347-top-k-frequent-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/srajankumar1/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/srajankumar1/leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0948-sort-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/srajankumar1/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/srajankumar1/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -414,6 +415,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/srajankumar1/leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/srajankumar1/leetcode_solutions/tree/master/0743-network-delay-time) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -459,6 +461,7 @@
 | [0310-minimum-height-trees](https://github.com/srajankumar1/leetcode_solutions/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/srajankumar1/leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/srajankumar1/leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/srajankumar1/leetcode_solutions/tree/master/0994-rotting-oranges) |
 ## Binary Indexed Tree
 |  |
@@ -479,6 +482,7 @@
 | ------- |
 | [0310-minimum-height-trees](https://github.com/srajankumar1/leetcode_solutions/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/srajankumar1/leetcode_solutions/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -503,4 +507,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/srajankumar1/leetcode_solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
