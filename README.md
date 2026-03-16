@@ -36,6 +36,7 @@
 | [0134-gas-station](https://github.com/srajankumar1/leetcode_solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/srajankumar1/leetcode_solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/srajankumar1/leetcode_solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/srajankumar1/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
@@ -82,6 +83,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srajankumar1/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/srajankumar1/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/srajankumar1/leetcode_solutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/srajankumar1/leetcode_solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/srajankumar1/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srajankumar1/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0202-happy-number) |
@@ -157,6 +159,7 @@
 | [0091-decode-ways](https://github.com/srajankumar1/leetcode_solutions/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/srajankumar1/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/srajankumar1/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/srajankumar1/leetcode_solutions/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
@@ -219,6 +222,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srajankumar1/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/srajankumar1/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/srajankumar1/leetcode_solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/srajankumar1/leetcode_solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/srajankumar1/leetcode_solutions/tree/master/0338-counting-bits) |
@@ -238,6 +242,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/srajankumar1/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/srajankumar1/leetcode_solutions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
@@ -500,6 +505,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/srajankumar1/leetcode_solutions/tree/master/0139-word-break) |
 | [0648-replace-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 ## Graph Theory
