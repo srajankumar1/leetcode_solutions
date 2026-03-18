@@ -38,6 +38,7 @@
 | [0136-single-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/srajankumar1/leetcode_solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/srajankumar1/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/srajankumar1/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
@@ -300,6 +301,7 @@
 | [0073-set-matrix-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/srajankumar1/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/srajankumar1/leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/srajankumar1/leetcode_solutions/tree/master/0994-rotting-oranges) |
@@ -436,6 +438,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/srajankumar1/leetcode_solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/srajankumar1/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/srajankumar1/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/srajankumar1/leetcode_solutions/tree/master/0310-minimum-height-trees) |
@@ -491,6 +494,7 @@
 | [0127-word-ladder](https://github.com/srajankumar1/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/srajankumar1/leetcode_solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/srajankumar1/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/srajankumar1/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/srajankumar1/leetcode_solutions/tree/master/0310-minimum-height-trees) |
@@ -528,6 +532,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/srajankumar1/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
 ## Combinatorics
 |  |
