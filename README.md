@@ -457,6 +457,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/srajankumar1/leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/srajankumar1/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -515,6 +516,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/srajankumar1/leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/srajankumar1/leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/srajankumar1/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/srajankumar1/leetcode_solutions/tree/master/0994-rotting-oranges) |
 ## Binary Indexed Tree
 |  |
@@ -538,6 +540,7 @@
 | [0310-minimum-height-trees](https://github.com/srajankumar1/leetcode_solutions/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/srajankumar1/leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/srajankumar1/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -547,6 +550,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/srajankumar1/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/srajankumar1/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 ## Combinatorics
 |  |
 | ------- |
