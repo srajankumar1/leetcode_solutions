@@ -63,6 +63,7 @@
 | [0658-find-k-closest-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/srajankumar1/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0792-binary-search) |
 | [0881-boats-to-save-people](https://github.com/srajankumar1/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
@@ -416,6 +417,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/srajankumar1/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/srajankumar1/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/srajankumar1/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/srajankumar1/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Design
 |  |
