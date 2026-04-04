@@ -46,6 +46,7 @@
 | [0239-sliding-window-maximum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/srajankumar1/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/srajankumar1/leetcode_solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -193,6 +194,7 @@
 | [0074-search-a-2d-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/srajankumar1/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0792-binary-search) |
@@ -237,6 +239,7 @@
 | [0139-word-break](https://github.com/srajankumar1/leetcode_solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/srajankumar1/leetcode_solutions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/srajankumar1/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/srajankumar1/leetcode_solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/srajankumar1/leetcode_solutions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
