@@ -58,6 +58,7 @@
 | [0455-assign-cookies](https://github.com/srajankumar1/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0526-beautiful-arrangement](https://github.com/srajankumar1/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/srajankumar1/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/srajankumar1/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0648-replace-words) |
@@ -245,6 +246,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/srajankumar1/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/srajankumar1/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [1013-fibonacci-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/srajankumar1/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/srajankumar1/leetcode_solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -279,6 +281,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/srajankumar1/leetcode_solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/srajankumar1/leetcode_solutions/tree/master/0338-counting-bits) |
+| [0526-beautiful-arrangement](https://github.com/srajankumar1/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 ## Sorting
 |  |
 | ------- |
@@ -448,6 +451,7 @@
 | [0131-palindrome-partitioning](https://github.com/srajankumar1/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/srajankumar1/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -591,4 +595,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srajankumar1/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/srajankumar1/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
