@@ -459,6 +459,7 @@
 | [0216-combination-sum-iii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/srajankumar1/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
+| [0797-all-paths-from-source-to-target](https://github.com/srajankumar1/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -482,6 +483,7 @@
 | [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/srajankumar1/leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/srajankumar1/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/srajankumar1/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -543,6 +545,7 @@
 | [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/srajankumar1/leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/srajankumar1/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/srajankumar1/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/srajankumar1/leetcode_solutions/tree/master/0994-rotting-oranges) |
 ## Binary Indexed Tree
 |  |
@@ -567,6 +570,7 @@
 | [0684-redundant-connection](https://github.com/srajankumar1/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/srajankumar1/leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/srajankumar1/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/srajankumar1/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
 | ------- |
