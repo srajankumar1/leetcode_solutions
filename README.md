@@ -67,6 +67,7 @@
 | [0704-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/srajankumar1/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/srajankumar1/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/srajankumar1/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/srajankumar1/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
@@ -203,6 +204,7 @@
 | [0658-find-k-closest-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/srajankumar1/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/srajankumar1/leetcode_solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Simulation
