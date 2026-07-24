@@ -189,6 +189,7 @@
 | [0648-replace-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/srajankumar1/leetcode_solutions/tree/master/0763-partition-labels) |
+| [1021-remove-outermost-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/srajankumar1/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## String Matching
 |  |
@@ -230,6 +231,7 @@
 | [0143-reorder-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/srajankumar1/leetcode_solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-clumsy-factorial](https://github.com/srajankumar1/leetcode_solutions/tree/master/1048-clumsy-factorial) |
 ## Dynamic Programming
 |  |
