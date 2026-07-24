@@ -99,6 +99,7 @@
 | [0146-lru-cache](https://github.com/srajankumar1/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srajankumar1/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/srajankumar1/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/srajankumar1/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -184,6 +185,7 @@
 | [0139-word-break](https://github.com/srajankumar1/leetcode_solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/srajankumar1/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
