@@ -58,6 +58,7 @@
 | [0435-non-overlapping-intervals](https://github.com/srajankumar1/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srajankumar1/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/srajankumar1/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/srajankumar1/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0526-beautiful-arrangement](https://github.com/srajankumar1/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
