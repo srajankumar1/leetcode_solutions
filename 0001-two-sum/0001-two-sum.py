@@ -5,6 +5,6 @@ class Solution(object):
         for num in nums:
             next=target-num
             if next in d:
-                return(d[next],i)
+                return (d[next],i)
             d[num]=i
             i+=1
