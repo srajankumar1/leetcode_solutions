@@ -39,6 +39,7 @@
 | [0136-single-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/srajankumar1/leetcode_solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/srajankumar1/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/srajankumar1/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/srajankumar1/leetcode_solutions/tree/master/0198-house-robber) |
@@ -222,6 +223,7 @@
 | [0069-sqrtx](https://github.com/srajankumar1/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/srajankumar1/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/srajankumar1/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
