@@ -1,7 +1,13 @@
 class Solution(object):
     def search(self, nums, target):
-        index=-1
-        for i in range(len(nums)):
-            if nums[i]==target:
-                index=i
-        return index
+        start=0
+        end=len(nums)-1
+        while start<=end:
+            mid=(start+end)//2
+            if target==nums[mid]:
+                return mid
+            elif target<nums[mid]:
+                end=mid-1
+            else:
+                start=mid+1
+        return -1
