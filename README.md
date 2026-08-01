@@ -132,6 +132,7 @@
 | [0069-sqrtx](https://github.com/srajankumar1/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/srajankumar1/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
