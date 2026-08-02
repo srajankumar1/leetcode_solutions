@@ -1,19 +1,13 @@
 class Solution(object):
     def removeElements(self, head, val):
 
-        dummy = ListNode(0)
-        dummy.next = head
-
-        prev = dummy
+        while head and head.val == val:
+            head = head.next
         curr = head
 
-        while curr:
-
-            if curr.val == val:
-                prev.next = curr.next
+        while curr and curr.next:
+            if curr.next.val == val:
+                curr.next = curr.next.next
             else:
-                prev = curr
-
-            curr = curr.next
-
-        return dummy.next
+                curr = curr.next
+        return head
