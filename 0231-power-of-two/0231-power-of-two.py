@@ -7,7 +7,4 @@ class Solution(object):
         else:
             while(n%2==0):
                 n=n//2
-            if n==1:
-                return True
-            else:
-                return False
+            return n==1
