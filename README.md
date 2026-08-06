@@ -144,6 +144,7 @@
 | [1013-fibonacci-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/srajankumar1/leetcode_solutions/tree/master/1048-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1518-water-bottles](https://github.com/srajankumar1/leetcode_solutions/tree/master/1518-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -245,6 +246,7 @@
 | [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/srajankumar1/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1048-clumsy-factorial](https://github.com/srajankumar1/leetcode_solutions/tree/master/1048-clumsy-factorial) |
+| [1518-water-bottles](https://github.com/srajankumar1/leetcode_solutions/tree/master/1518-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srajankumar1/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
