@@ -73,6 +73,7 @@
 | [0692-top-k-frequent-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/srajankumar1/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/srajankumar1/leetcode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/srajankumar1/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/srajankumar1/leetcode_solutions/tree/master/0881-boats-to-save-people) |
@@ -367,6 +368,7 @@
 | [0621-task-scheduler](https://github.com/srajankumar1/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/srajankumar1/leetcode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/srajankumar1/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/srajankumar1/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0948-sort-an-array) |
