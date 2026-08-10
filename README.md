@@ -142,6 +142,7 @@
 | [0231-power-of-two](https://github.com/srajankumar1/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/srajankumar1/leetcode_solutions/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/srajankumar1/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -688,4 +689,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/srajankumar1/leetcode_solutions/tree/master/0986-interval-list-intersections) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/srajankumar1/leetcode_solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
