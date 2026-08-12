@@ -92,6 +92,7 @@
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/srajankumar1/leetcode_solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1710-maximum-units-on-a-truck](https://github.com/srajankumar1/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/srajankumar1/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srajankumar1/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2210-find-target-indices-after-sorting-array) |
