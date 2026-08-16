@@ -70,6 +70,7 @@
 | [0494-target-sum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0526-beautiful-arrangement](https://github.com/srajankumar1/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
+| [0540-single-element-in-a-sorted-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/srajankumar1/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/srajankumar1/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0648-replace-words) |
@@ -252,6 +253,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/srajankumar1/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0792-binary-search) |
