@@ -57,6 +57,7 @@
 | [0239-sliding-window-maximum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/srajankumar1/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/srajankumar1/leetcode_solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/srajankumar1/leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
@@ -189,6 +190,7 @@
 | [0189-rotate-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/srajankumar1/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/srajankumar1/leetcode_solutions/tree/master/0763-partition-labels) |
@@ -257,6 +259,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srajankumar1/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/srajankumar1/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
@@ -361,6 +364,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/srajankumar1/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/srajankumar1/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/srajankumar1/leetcode_solutions/tree/master/0338-counting-bits) |
 | [0526-beautiful-arrangement](https://github.com/srajankumar1/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 ## Sorting
@@ -722,4 +726,12 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/srajankumar1/leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
