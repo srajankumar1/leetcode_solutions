@@ -1,12 +1,9 @@
 class Solution(object):
     def findDuplicate(self, nums):
-        d={}
-        for num in nums:
-            if num not in d:
-                d[num]=1
+        for i in range(len(nums)):
+            ele=nums[i]
+            ele=abs(ele)
+            if nums[ele]>0:
+                nums[ele]=-nums[ele]
             else:
-                d[num]+=1
-        for key in d:
-            if d[key]>=2:
-                return key
-        return -1
+                return ele
