@@ -93,6 +93,7 @@
 | [0986-interval-list-intersections](https://github.com/srajankumar1/leetcode_solutions/tree/master/0986-interval-list-intersections) |
 | [0989-add-to-array-form-of-integer](https://github.com/srajankumar1/leetcode_solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/srajankumar1/leetcode_solutions/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/srajankumar1/leetcode_solutions/tree/master/1046-last-stone-weight) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/srajankumar1/leetcode_solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -479,6 +480,7 @@
 | [0743-network-delay-time](https://github.com/srajankumar1/leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0948-sort-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/srajankumar1/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/srajankumar1/leetcode_solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/srajankumar1/leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quickselect
