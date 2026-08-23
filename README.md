@@ -232,6 +232,7 @@
 | [0242-valid-anagram](https://github.com/srajankumar1/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/srajankumar1/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/srajankumar1/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/srajankumar1/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -293,6 +294,7 @@
 | [0143-reorder-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/srajankumar1/leetcode_solutions/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/srajankumar1/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-clumsy-factorial](https://github.com/srajankumar1/leetcode_solutions/tree/master/1048-clumsy-factorial) |
@@ -340,6 +342,7 @@
 | [0203-remove-linked-list-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/srajankumar1/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
