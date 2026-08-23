@@ -244,6 +244,7 @@
 | [0796-rotate-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/srajankumar1/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
+| [1446-consecutive-characters](https://github.com/srajankumar1/leetcode_solutions/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/srajankumar1/leetcode_solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
