@@ -1,18 +1,19 @@
 class Solution(object):
     def isPalindrome(self, s):
-        if len(s)==1:
-            return True
-        s1=""
-        for i in range(len(s)):
-            ch=s[i]
-            if ch>='a' and ch<='z':
-                s1+=ch
-            elif ch>='A' and ch<='Z':
-                s1+=ch.lower()
-            elif ch>='0' and ch<='9':
-                s1+=ch
-            
-        if s1==s1[::-1]:
-            return True
-        else:
-            return False
+        left=0
+        right=len(s)-1
+
+        while left<right:
+            while left<right and not s[left].isalnum():
+                left+=1
+
+            while left<right and not s[right].isalnum():
+                right-=1
+
+            if s[left].lower()!=s[right].lower():
+                return False
+
+            left+=1
+            right-=1
+
+        return True
