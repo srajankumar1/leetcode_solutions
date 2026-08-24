@@ -184,6 +184,7 @@
 | [0031-next-permutation](https://github.com/srajankumar1/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/srajankumar1/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/srajankumar1/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/srajankumar1/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -222,6 +223,7 @@
 | [0079-word-search](https://github.com/srajankumar1/leetcode_solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/srajankumar1/leetcode_solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/srajankumar1/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/srajankumar1/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/srajankumar1/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/srajankumar1/leetcode_solutions/tree/master/0139-word-break) |
