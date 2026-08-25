@@ -1,18 +1,15 @@
 class Solution(object):
     def isAnagram(self, s, t):
-        if len(s) != len(t):
-            return False
-
-        freq=[0]*26
-        s=s.upper()
-        t=t.upper()
-
+        l1={}
+        l2={}
         for char in s:
-            freq[ord(char)-ord('A')]+=1
+            if char in l1:
+                l1[char]+=1
+            else:
+                l1[char]=1
         for char in t:
-            freq[ord(char)-ord('A')]-=1
-
-        for ele in freq:
-            if ele!=0:
-                return False
-        return True
+            if char in l2:
+                l2[char]+=1
+            else:
+                l2[char]=1
+        return l1==l2
