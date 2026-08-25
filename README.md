@@ -244,6 +244,7 @@
 | [0692-top-k-frequent-words](https://github.com/srajankumar1/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/srajankumar1/leetcode_solutions/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/srajankumar1/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/srajankumar1/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1446-consecutive-characters](https://github.com/srajankumar1/leetcode_solutions/tree/master/1446-consecutive-characters) |
@@ -301,6 +302,7 @@
 | [0316-remove-duplicate-letters](https://github.com/srajankumar1/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/srajankumar1/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-clumsy-factorial](https://github.com/srajankumar1/leetcode_solutions/tree/master/1048-clumsy-factorial) |
 ## Dynamic Programming
@@ -447,6 +449,7 @@
 | [0621-task-scheduler](https://github.com/srajankumar1/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/srajankumar1/leetcode_solutions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/srajankumar1/leetcode_solutions/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/srajankumar1/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/srajankumar1/leetcode_solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1710-maximum-units-on-a-truck](https://github.com/srajankumar1/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -755,4 +758,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/srajankumar1/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
