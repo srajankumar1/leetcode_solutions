@@ -751,4 +751,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
