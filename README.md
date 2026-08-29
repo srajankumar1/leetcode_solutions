@@ -172,6 +172,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/srajankumar1/leetcode_solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -310,6 +311,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/srajankumar1/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-clumsy-factorial](https://github.com/srajankumar1/leetcode_solutions/tree/master/1048-clumsy-factorial) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -480,6 +482,7 @@
 | [0203-remove-linked-list-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
