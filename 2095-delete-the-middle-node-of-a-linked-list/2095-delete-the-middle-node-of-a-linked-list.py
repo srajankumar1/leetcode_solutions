@@ -7,10 +7,11 @@ class Solution(object):
     def deleteMiddle(self, head):
         if head.next==None:
             return None
-        prev=fast=slow=head
+        prev=slow=head
+        fast=head.next.next
         while fast and fast.next:
             prev=slow
             slow=slow.next
             fast=fast.next.next
-        prev.next=prev.next.next
+        slow.next=slow.next.next
         return head
