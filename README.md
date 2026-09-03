@@ -94,6 +94,7 @@
 | [0986-interval-list-intersections](https://github.com/srajankumar1/leetcode_solutions/tree/master/0986-interval-list-intersections) |
 | [0989-add-to-array-form-of-integer](https://github.com/srajankumar1/leetcode_solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/srajankumar1/leetcode_solutions/tree/master/0994-rotting-oranges) |
+| [1019-next-greater-node-in-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/srajankumar1/leetcode_solutions/tree/master/1046-last-stone-weight) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/srajankumar1/leetcode_solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -314,6 +315,7 @@
 | [0394-decode-string](https://github.com/srajankumar1/leetcode_solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/srajankumar1/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-clumsy-factorial](https://github.com/srajankumar1/leetcode_solutions/tree/master/1048-clumsy-factorial) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -490,6 +492,7 @@
 | [0234-palindrome-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0328-odd-even-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
@@ -631,6 +634,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/srajankumar1/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/srajankumar1/leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/srajankumar1/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Tree
 |  |
 | ------- |
