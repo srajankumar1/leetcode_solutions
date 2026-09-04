@@ -633,6 +633,7 @@
 | [0785-is-graph-bipartite](https://github.com/srajankumar1/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/srajankumar1/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/srajankumar1/leetcode_solutions/tree/master/0841-keys-and-rooms) |
+| [0965-univalued-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0965-univalued-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -661,6 +662,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -681,6 +683,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -702,6 +705,7 @@
 | [0785-is-graph-bipartite](https://github.com/srajankumar1/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/srajankumar1/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/srajankumar1/leetcode_solutions/tree/master/0841-keys-and-rooms) |
+| [0965-univalued-binary-tree](https://github.com/srajankumar1/leetcode_solutions/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/srajankumar1/leetcode_solutions/tree/master/0994-rotting-oranges) |
 ## Binary Indexed Tree
 |  |
