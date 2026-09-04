@@ -479,6 +479,7 @@
 | [0002-add-two-numbers](https://github.com/srajankumar1/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/srajankumar1/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/srajankumar1/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/srajankumar1/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -501,6 +502,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/srajankumar1/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/srajankumar1/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/srajankumar1/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srajankumar1/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0148-sort-list) |
@@ -515,6 +517,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/srajankumar1/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/srajankumar1/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/srajankumar1/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -537,6 +540,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/srajankumar1/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/srajankumar1/leetcode_solutions/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/srajankumar1/leetcode_solutions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
@@ -790,4 +794,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/srajankumar1/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/srajankumar1/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/srajankumar1/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
