@@ -1,5 +1,5 @@
 class Solution(object):
     def missingNumber(self, nums):
-        for i in range(len(nums)+1):
-            if i not in nums:
-                return i
+        n=len(nums)
+        k=(n*(n+1))//2
+        return k-sum(nums)
