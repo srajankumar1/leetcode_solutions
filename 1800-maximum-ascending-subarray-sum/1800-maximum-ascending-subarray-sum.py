@@ -7,6 +7,5 @@ class Solution(object):
                 curr+=nums[i]
             else:
                 curr=nums[i]
-            if curr>total:
-                total=curr
+            total=max(curr,total)
         return total
