@@ -11,7 +11,6 @@ class Solution(object):
                 maxi=i
             elif nums[i]>max2:
                 max2=nums[i]
-            i+=1
         if max1 >= max2*2:
             return maxi
         else:
